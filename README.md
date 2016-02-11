@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ##tal_ec2
 
 This recipe is used to setup cluster and stack machines.
@@ -88,6 +88,4 @@ private_keys  '<key>' => '<key_location>'
 export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
 ```
-=======
-# tal_ec2
->>>>>>> d353c27711f68c028fb3083b1a389e371e55250b
+
