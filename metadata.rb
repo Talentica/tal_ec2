@@ -1,0 +1,7 @@
+name 'tal_ec2'
+maintainer 'Talentica/Anshul'
+maintainer_email ''
+license 'all_rights'
+description 'Installs/Configures aws_machine'
+long_description 'Installs/Configures aws_machine'
+version '0.1.0'
